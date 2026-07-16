@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj": {}
+    "/workspaces/dotnet-learning-log/Day01/MyFirstApp/MyFirstApp.csproj": {}
   },
   "projects": {
-    "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj": {
+    "/workspaces/dotnet-learning-log/Day01/MyFirstApp/MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj",
+        "projectUniqueName": "/workspaces/dotnet-learning-log/Day01/MyFirstApp/MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj",
+        "projectPath": "/workspaces/dotnet-learning-log/Day01/MyFirstApp/MyFirstApp.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/dotnet-learning-log/MyFirstApp/obj/",
+        "outputPath": "/workspaces/dotnet-learning-log/Day01/MyFirstApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
