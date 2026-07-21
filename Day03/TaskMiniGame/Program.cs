@@ -25,3 +25,4 @@ while (number != gnumber && attempt<3)
   Console.WriteLine("Maximum attempt");
   Console.WriteLine("The correct number was: " + number);
 }
+

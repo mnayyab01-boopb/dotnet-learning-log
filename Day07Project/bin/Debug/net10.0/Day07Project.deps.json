@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "MyFirstApp/1.0.0": {
+      "Day07Project/1.0.0": {
         "runtime": {
-          "MyFirstApp.dll": {}
+          "Day07Project.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MyFirstApp/1.0.0": {
+    "Day07Project/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

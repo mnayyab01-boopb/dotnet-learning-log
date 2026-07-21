@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj",
-      "projectName": "MyFirstApp",
-      "projectPath": "/workspaces/dotnet-learning-log/MyFirstApp/MyFirstApp.csproj",
+      "projectUniqueName": "/workspaces/dotnet-learning-log/Day07Project/Day07Project.csproj",
+      "projectName": "Day07Project",
+      "projectPath": "/workspaces/dotnet-learning-log/Day07Project/Day07Project.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/dotnet-learning-log/MyFirstApp/obj/",
+      "outputPath": "/workspaces/dotnet-learning-log/Day07Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
